@@ -1,0 +1,121 @@
+{
+    "basic_info": {
+      "name": "Min Du",
+      "titles": [ "Full Stack Developer", "Front End Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/mindu902",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/min-du/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "email",
+          "url": "mailto:mindu902@gmail.com",
+          "class": "fas fa-envelope"
+        }
+      ],
+      "image": "https://i.ibb.co/grfv16M/60545084-9859-4761-ABA2-C4-AFED626-A74-1-105-c.jpg"
+      
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "90"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain",
+          "level": "70"
+        },
+        
+        {
+          "name": "JQuery",
+          "class": "devicon-jquery-plain",
+          "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "75"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "85"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "65"
+        },
+        {
+          "name": "R",
+          "class": "devicon-r-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "60"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Pytorch",
+          "class": "devicon-pytorch-plain",
+          "level": "60"
+        },
+        {
+          "name": "Numpy",
+          "class": "devicon-numpy-plain",
+          "level": "60"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "60"
+        },
+        {
+          "name": "Latex",
+          "class": "devicon-latex-plain",
+          "level": "60"
+        }
+
+      ]
+    }
+  }
