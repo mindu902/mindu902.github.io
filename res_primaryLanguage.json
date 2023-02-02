@@ -1,0 +1,124 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Min Du, a recent Master of Computing graduate from the Australian National University and a Bachelor of Science graduate from the University of Toronto. I have hands-on experience in full stack development and a passion for using technology to solve problems. I am humbly eager to continue learning and contributing my skills to projects that make a positive impact.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Tech Stacks",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Money Manager",
+        "startDate": "2022.11-Present",
+        "description": "A website that enables users to record incomes and expenses. Users are able to see monthly statistics in list view and chart view.",
+        "images": [
+          "https://images.unsplash.com/photo-1534951009808-766178b47a4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "https://user-images.githubusercontent.com/96086388/211726494-a4aacf4c-9c20-45d9-975c-437fa2628d75.png",
+          "https://user-images.githubusercontent.com/96086388/211726614-1cc7a298-1c45-4198-982c-fa03ca6fa996.png"
+        ],
+        "url": "https://github.com/mindu902/Money-Manager-React",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Pets Tracking",
+        "startDate": "2022.2 - 2022.11",
+        "description": "The web app assists pet owners in managing their pet's medical documents and tracking health parameters. Users can also create events, tasks, and bookings and are notified when events/tasks/bookings are approaching.",
+        "images": [
+          "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1460&q=80",
+          "https://user-images.githubusercontent.com/96086388/202868279-a0d5086f-c2e4-4875-b8b8-c1528403551e.png",
+          "https://user-images.githubusercontent.com/96086388/202868370-ab3493eb-07e0-461a-94cb-30cae0026836.png",
+          "https://user-images.githubusercontent.com/96086388/202868559-b0971a1f-8569-485f-a08b-ae9b49231a94.png",
+          "https://user-images.githubusercontent.com/96086388/202868724-699c9ac1-f7ea-43cf-bea9-03363c03ceb6.png"
+        ],
+        "url": "https://github.com/mindu902/Pets-Tracking-Vue",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Poros Consulting Group",
+        "title": "Full Stack Developer",
+        "years": "2022.09 - 2023.01",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "JavaScript",
+          "Bootstrap",
+          "NodeJs",
+          "MySQL"
+        ]
+      },
+      {
+        "company": "Australian Nationa University",
+        "title": "Master of Computing",
+        "years": "2021.02 - 2022.12",
+        "mainTech": [
+          "Data Science Specialization"
+        ],
+        "technologies": [
+          "Software Engineering",
+          "Computing Porject",
+          "Machine Learning",
+          "Information Retrieval"
+        ]
+      },
+      {
+        "company": "Maru/Blue",
+        "title": "Sampling Analyst",
+        "years": "2019.09 - 2021.01",
+        "mainTech": [
+          "SPSS"
+        ],
+        "technologies": [
+          "SQL",
+          "SPSS",
+          "Excel"
+        ]
+      },
+      {
+        "company": "University of Toronto",
+        "title": "Honours Bachelor of Science",
+        "years": "2015.09 - 2019.06",
+        "mainTech": [
+          "Majors in Math & Stats, Minor in CS"
+        ],
+        "technologies": [
+          "Software Design",
+          "Data Structure and Algorithm",
+          "Linear Algebra",
+          "Method of Data Analysis"
+        ]
+      }
+    ]
+  }
